@@ -8,6 +8,7 @@
  * Varias fuentes, GNU
  * Adaptacion Miguel Mendez-Garabetti
  * mendezgarabetti@fosshlab.org
+ * Curso de CEAR
  *
  *
 
